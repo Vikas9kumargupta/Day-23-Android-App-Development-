@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day22(Project-2)</string>
+    <string name="text1">VIRAT KOHLI</string>
+    <string name="indian_cricket_player">INDIAN CRICKET PLAYER</string>
+    <string name="_4_45_pm">4.45 PM</string>
+    <string name="phone_number">Phone-Number</string>
+    <string name="name">Name</string>
+    <string name="last_seen">Last Seen</string>
+</resources>
